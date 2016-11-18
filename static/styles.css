@@ -71,14 +71,12 @@ main {
 }
 
 h2 {
-    text-align: center;
+    text-align: left;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+    margin-top: 60px;
 }
 
-p {
-	text-align: center;
-	font-family: 'Open Sans', sans-serif;
-	margin-top: 10px;
-}
 .leader {
     width: 500px;
     height: 400px;
@@ -98,8 +96,9 @@ p {
     left: 9px;
 }
 
-.content {
+ p {
 	text-align: center;
+	font-family: 'Open Sans', sans-serif;
 	margin-top: 40px;
 	font-size: 20px;
 	font-weight: 300;
