@@ -92,3 +92,10 @@ h2 {
     position: relative;
     left: 9px;
 }
+
+.content {
+	text-align: center;
+	margin-top: 40px;
+	font-size: 20px;
+	font-weight: 300;
+}
