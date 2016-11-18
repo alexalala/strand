@@ -12,6 +12,14 @@ app.get('/', function (req, res) {
   res.render('home');
 });
 
+app.get('/about', function (req, res) {
+    res.render('about');
+});
+
+app.get('/contact', function (req, res) {
+    res.render('contact');
+});
+
 app.listen(3000, function () {
   console.warn('Listening on port 3000, visit http://localhost:3000/');
 });
