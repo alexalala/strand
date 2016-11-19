@@ -97,6 +97,7 @@ h2 {
 }
 
 p {
+<<<<<<< HEAD
      text-align: center;
      margin: 15px 0;
      font-size: 20px;
@@ -121,6 +122,17 @@ ol li .icon {
     width: 33%;
 }
 
-.hidden {
-    display: none;
+.circle {
+    height: 100px;
+    width: 100px !important; /* Fix this */
+    border-radius: 50%;
+    background-color: gray;
+    margin: 0 auto;
+}
+
+.name {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 200;
+    margin: 5px 0;
 }
