@@ -69,10 +69,12 @@ body {
     font-weight: lighter;
     text-align: center;
     line-height: 1.5;
+    background-color: black;
+
 }
 main {
     padding: 5px;
-    margin-bottom: 20px;
+    background-color: white;
 }
 
 h2 {
