@@ -66,10 +66,11 @@ body {
     border-left: 5px solid black;
     border-right: 5px solid black;
     font-family: 'Open Sans', sans-serif;
+    background-color: black;
 }
 main {
     padding: 5px;
-    margin-bottom: 20px;
+    background-color: white;
 }
 
 h2 {
