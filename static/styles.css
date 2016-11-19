@@ -69,6 +69,7 @@ body {
 }
 main {
     padding: 5px;
+    margin-bottom: 20px;
 }
 
 h2 {
@@ -97,8 +98,6 @@ h2 {
 }
 
 p {
-<<<<<<< HEAD
-     text-align: center;
      margin: 15px 0;
      font-size: 20px;
      font-weight: 300;
@@ -116,10 +115,15 @@ ol li .icon {
     width: 32px;
     height: 32px;
     background-color: grey;
+    display: inline-block;
 }
 
 .product {
     width: 33%;
+}
+
+.center {
+    text-align: center;
 }
 
 .circle {
@@ -132,7 +136,6 @@ ol li .icon {
 
 .name {
     text-align: center;
-    font-family: 'Open Sans', sans-serif;
     font-weight: 200;
     margin: 5px 0;
 }
