@@ -68,6 +68,7 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
     text-align: center;
+    line-height: 1.5;
 }
 main {
     padding: 5px;
@@ -150,3 +151,12 @@ ol li .icon img{
 
 }
 
+input.button-primary {
+	background-color: black !important;
+	border-color: black !important;
+}
+
+.labelStyle {
+	font-size: 20px;
+	margin-bottom: 5px;
+}
